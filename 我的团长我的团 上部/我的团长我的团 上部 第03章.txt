@@ -1,7 +1,6 @@
-document.write(" <p align=center style='FONT-SIZE:13.5pt;font-family:ËÎÌå'><b><a name='1_03'>ÎÒµÄÍÅ³¤ÎÒµÄÍÅ ÉÏ²¿ µÚÈýÕÂ</b>
-");
+ÎÒµÄÍÅ³¤ÎÒµÄÍÅ ÉÏ²¿ µÚÈýÕÂ
 
-document.write ('¡¡¡¡ÔÆÄÏ¸ßÔ­ÉÏµÄÔÆ²ãµÍµ½ÕâÖÖµØ²½£¬£Ã£´£¶¸ÕÅÀÉý³öÎíÆø£¬¾ÍÓÖ×ê½øÁËÔÆ²ã¡£
+¡¡¡¡ÔÆÄÏ¸ßÔ­ÉÏµÄÔÆ²ãµÍµ½ÕâÖÖµØ²½£¬£Ã£´£¶¸ÕÅÀÉý³öÎíÆø£¬¾ÍÓÖ×ê½øÁËÔÆ²ã¡£
 ¡¡¡¡ÔÚ°õíçµÄÔÆ²ãÖÐËüÏñÊÇÖ½ÕÛµÄ£¬ÔÚÆøÀËÖÐµß¸²£¬·´µ¹ÊÇÄÇÐ©Ç§Ææ°Ù¹ÖµÄÔÆ²ã¿´ÉÏÈ¥ÏñÊÇ¹ÌÌåµÄ£¬ÏñÊÇÅÓ´óÎÞÆ¥µÄÁ÷¶¯É½ÂÍ¡£
 ¡¡¡¡ÎÒÃÇÔÚ»ú²ÕÀïÏó»õÎïÒ»Ñù±»Å×Èö¡£Ã¿Ò»¸ö×¥×¡Ò»¸ö¹Ì¶¨µãµÄÈË¶¼³ÉÁËÒ»¸ö´ó°ÑÊÖ£¬ÓÐºÃ¼¸¸öÈËÅÊ¸½ÔÚËûµÄÉíÉÏ£¬Å»ÍÂ´üÔÚÎÒÃÇÉí±ß»îÔ¾µØ·ÉÐÐ£¬µ«ÊÇË­»¹¹ËµÃÉÏËüÃÇ£¿
 ¡¡¡¡»ú²ÕÈÔÊÇÇãÐ±µÄ£¬Õû¼Ü·É»ú¶¼ÔÚÅÀÉýÖÐÕð²ü¡£
@@ -390,4 +389,3 @@ document.write ('¡¡¡¡ÔÆÄÏ¸ßÔ­ÉÏµÄÔÆ²ãµÍµ½ÕâÖÖµØ²½£¬£Ã£´£¶¸ÕÅÀÉý³öÎíÆø£¬¾ÍÓÖ×ê½øÁ
 ¡¡¡¡ÓÚÊÇÎÒÃÇ¼ÌÐø×ß£¬ÏòÇ°±ß×ß¡£
 ¡¡¡¡ºóÀ´ÎÒÃÇÒ»Ö±¾Í½ÐËûËÀÀ²ËÀÀ²¡£ºóÀ´ÔÚÎÒµÄÓàÉúÖÐ£¬×î°®¿´¿¹Õ½ÀÏÆ¬£¬Ò»µ©ÆÁÄ»ÉÏµÄÈÕ±¾±ø´ó½ÐËÀÀ²ËÀÀ²£¬ÎÒ¾Í´ÓÐÄÀï¿ªÊ¼Ð¦£¬Ð¦ÎÆ´ÓÐÄÀïÒ»Ö±·ºµ½×ì½Ç¡£
 ¡¡¡¡ÄÇÊÇËÀÀ²ËÀÀ²Áô¸øÎÒµÄ¶«Î÷¡£¡±
-')

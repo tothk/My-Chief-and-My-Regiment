@@ -1,7 +1,6 @@
-document.write(" <p align=center style='FONT-SIZE:13.5pt;font-family:ËÎÌå'><b><a name='2_22'>ÎÒµÄÍÅ³¤ÎÒµÄÍÅ ÏÂ²¿ µÚËÄÊ®ÕÂ</b>
-");
+ÎÒµÄÍÅ³¤ÎÒµÄÍÅ ÏÂ²¿ µÚËÄÊ®ÕÂ
 
-document.write ('¡¡¡¡ÎÒºÍ°¢Òë¿Õ¿ÕÂäÂäµØ×ß¹ýÏïµÀ£¬ÎÒÃÇÐÄÀï±ßÏë×ÅÎÒÃÇ´ø²»»ØÀ´µØ²»À±£¬ÓÚÊÇ½Å²½ÉùÌýÀ´Ò²ÊÇ¿Õ¿ÕÂäÂä¡£
+¡¡¡¡ÎÒºÍ°¢Òë¿Õ¿ÕÂäÂäµØ×ß¹ýÏïµÀ£¬ÎÒÃÇÐÄÀï±ßÏë×ÅÎÒÃÇ´ø²»»ØÀ´µØ²»À±£¬ÓÚÊÇ½Å²½ÉùÌýÀ´Ò²ÊÇ¿Õ¿ÕÂäÂä¡£
 ¡¡¡¡°¢ÒëÕúÕúµÄ£¬ºÃÏñËû°Ñ°ëÀ­ÐÄÒ²ÁôÔÚÄÄÀïÁË£¬µ¹Î´¼ûµÃÊÇ²»À±¡£²»À±¶ÔËûµ¹¸üÏñºÜ¶àÍ¬Ñù²»Ç×²»½üÖ®ÈËµÄ´úÑÔ¡ª¡ªÖ»ÊÇÄÇÐí¶àÈË¼ÓÒ»Æð¶ÔËûÀ´Ëµ¾Í³ÉÁËÊÀ½ç¡£
 ¡¡¡¡°¢Òë£º¡°²»À±Ëû¡­¡­¡±
 ¡¡¡¡ÎÒ¶ñÉù¶ñÆøµØ²µ»ØÈ¥£º¡°±ðËµ²»À±¡£¡±
@@ -427,4 +426,3 @@ document.write ('¡¡¡¡ÎÒºÍ°¢Òë¿Õ¿ÕÂäÂäµØ×ß¹ýÏïµÀ£¬ÎÒÃÇÐÄÀï±ßÏë×ÅÎÒÃÇ´ø²»»ØÀ´µØ²»À
 ¡¡¡¡ËÀÀ²ËÀÀ²²ïÒìµØÇÆ×Å³µÉÏµÄÎÒ£¬ÎÒÏòËû´ó×ö²ïÒìµÄ±íÇéºÍÊÖÊÆ£¬Ëûµ¹ÊÇÃ»ÎÒÄÇÃ´¶à·Ï»°£¬¾¶Ö±¾ÍÉÏÁË³µ¡£
 ¡¡¡¡È»ºóÎÒÃÇÐÐÊ»¡£
 ¡¡¡¡ÎÒÓÖÒ»»ØµØÃ«¹Çã¤È»£¬Ô­À´Ê¦Àï±ÈÎÒÃÇ»¹ÁË½âÎÒÃÇµÄ×Ù¼£¡£
-')
